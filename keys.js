@@ -6,7 +6,7 @@ exports.twitterKeys = {
   access_token_secret: 'jsL0qDtx8GbeqHar7CpZrm9V0fvug2tCfqffSUVFEaB8b',
 }
 
-var Twitter = require('twitter');
+
  
 var client = new Twitter({
   consumer_key: '',
